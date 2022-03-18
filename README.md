@@ -13,9 +13,9 @@ This Repo contains TCs and UI automation code and include an explanation of the 
 
 *import /Part_1_UI_Automation_Task/Task_1 to intelliJ
     
-*check the automation script Script
+*check the automation script
 
-*Run TCs exists in src/test/java/Saucedemo/tests/LoginTCs.java
+*Run TCs exist in src/test/java/Saucedemo/tests/LoginTCs.java
 
 *Note:- TCs are running through chrome version 99.0.4844.74
 
